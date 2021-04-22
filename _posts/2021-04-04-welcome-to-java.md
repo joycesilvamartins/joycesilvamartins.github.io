@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Java!"
 date:   2021-04-21
-categories: jekyll update
+categories: java
 ---
 # O que é Java?
 
