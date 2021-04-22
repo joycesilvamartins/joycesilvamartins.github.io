@@ -62,7 +62,7 @@ Em `Java`, cada aplicação tem o ponto de entrada, o que chamamos de método **
 
 
 ***
-Vou ficando por aqui, espero que vocês tenham gostado do primeiro post de muitos que estão por vir!
+Vou ficando por aqui, espero que você tenha gostado do primeiro post de muitos que estão por vir!
 
 ❤ \
 Abraço!\
