@@ -28,8 +28,8 @@
 <body>
    {% include header.html %}
 
-  <main id="content" class="main-content" role="main">
-    
+   <main id="content" class="main-content" role="main">
+ 
     {% for post in site.posts %}
     <article>
       <h2>
@@ -40,7 +40,6 @@
       <time datetime="{{ post.date | date: " %Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
     </article>
     {% endfor %}
-
 
     {% include footer.html %}
     <main>
