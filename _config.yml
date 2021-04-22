@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 show_downloads: true
-future: true
-timezone: Ireland/Dublin
+#future: true
+#timezone: Ireland/Dublin
 
 title: Joyce Martins
 email: joyce.apsmartins@gmail.com
@@ -35,7 +35,7 @@ github_username:  "joycesilvamartins"
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-#permalink: /:categories/:title/
+permalink: /:categories/:title/
 
 
 # Exclude from processing.
