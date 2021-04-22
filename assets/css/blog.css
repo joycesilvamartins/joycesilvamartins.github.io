@@ -18,3 +18,7 @@ img[src*='#center'] {
     margin: auto;
 }
 
+@import "{{ site.theme }}";
+#forkme_banner{ display: none !important; }
+
+
